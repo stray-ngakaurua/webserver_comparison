@@ -1,0 +1,115 @@
+// 1 node - 5 tests 
+
+Test total duration was 31 seconds and CAPS average 18:
+H/F   Req:528,1xx:0,2xx:528,3xx:0,4xx:0,5xx:0,Err:0,T-Err:140,D:119ms,D-2xx:119ms,Ti:6948409B/s,To:2116B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 23 seconds and CAPS average 18:
+H/F   Req:374,1xx:0,2xx:374,3xx:0,4xx:0,5xx:0,Err:0,T-Err:16,D:106ms,D-2xx:106ms,Ti:6787651B/s,To:2027B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 31 seconds and CAPS average 18:
+H/F   Req:534,1xx:0,2xx:534,3xx:0,4xx:0,5xx:0,Err:0,T-Err:164,D:169ms,D-2xx:169ms,Ti:6836231B/s,To:2140B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 33 seconds and CAPS average 20:
+H/F   Req:613,1xx:0,2xx:613,3xx:0,4xx:0,5xx:0,Err:0,T-Err:100,D:116ms,D-2xx:116ms,Ti:7606611B/s,To:2325B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 20 seconds and CAPS average 20:
+H/F   Req:322,1xx:0,2xx:322,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:89ms,D-2xx:89ms,Ti:6753966B/s,To:1996B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+// 10 nodes - 5 tests
+
+Test total duration was 28 seconds and CAPS average 19:
+H/F   Req:436,1xx:0,2xx:436,3xx:0,4xx:0,5xx:0,Err:0,T-Err:12,D:114ms,D-2xx:114ms,Ti:6497161B/s,To:1939B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 30 seconds and CAPS average 21:
+H/F   Req:540,1xx:0,2xx:540,3xx:0,4xx:0,5xx:0,Err:0,T-Err:129,D:143ms,D-2xx:143ms,Ti:7245528B/s,To:2232B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 24 seconds and CAPS average 18:
+H/F   Req:356,1xx:0,2xx:356,3xx:0,4xx:0,5xx:0,Err:0,T-Err:4,D:87ms,D-2xx:87ms,Ti:6201761B/s,To:1844B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 20 seconds and CAPS average 19:
+H/F   Req:319,1xx:0,2xx:319,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:94ms,D-2xx:94ms,Ti:6691040B/s,To:1977B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 23 seconds and CAPS average 18:
+H/F   Req:329,1xx:0,2xx:329,3xx:0,4xx:0,5xx:0,Err:0,T-Err:1,D:107ms,D-2xx:107ms,Ti:5983695B/s,To:1779B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+// 20 nodes - 5 tests
+
+
+Test total duration was 23 seconds and CAPS average 18:
+H/F   Req:329,1xx:0,2xx:329,3xx:0,4xx:0,5xx:0,Err:0,T-Err:1,D:107ms,D-2xx:107ms,Ti:5983695B/s,To:1779B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 32 seconds and CAPS average 17:
+H/F   Req:570,1xx:0,2xx:569,3xx:0,4xx:0,5xx:0,Err:1,T-Err:122,D:137ms,D-2xx:137ms,Ti:7181547B/s,To:2216B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 33 seconds and CAPS average 20:
+H/F   Req:593,1xx:0,2xx:593,3xx:0,4xx:0,5xx:0,Err:0,T-Err:152,D:120ms,D-2xx:120ms,Ti:7317841B/s,To:2228B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 24 seconds and CAPS average 20:
+H/F   Req:388,1xx:0,2xx:388,3xx:0,4xx:0,5xx:0,Err:0,T-Err:16,D:103ms,D-2xx:103ms,Ti:6746053B/s,To:2015B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 21 seconds and CAPS average 22:
+H/F   Req:409,1xx:0,2xx:409,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:92ms,D-2xx:92ms,Ti:8170281B/s,To:2415B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+// 30 nodes - 5 tests 
+
+Test total duration was 28 seconds and CAPS average 17:
+H/F   Req:444,1xx:0,2xx:444,3xx:0,4xx:0,5xx:0,Err:0,T-Err:83,D:115ms,D-2xx:115ms,Ti:6564540B/s,To:1970B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 35 seconds and CAPS average 18:
+H/F   Req:633,1xx:0,2xx:633,3xx:0,4xx:0,5xx:0,Err:0,T-Err:147,D:134ms,D-2xx:134ms,Ti:7373775B/s,To:2260B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 39 seconds and CAPS average 19:
+H/F   Req:727,1xx:0,2xx:727,3xx:0,4xx:0,5xx:0,Err:0,T-Err:248,D:135ms,D-2xx:135ms,Ti:7329046B/s,To:2324B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 30 seconds and CAPS average 21:
+H/F   Req:555,1xx:0,2xx:555,3xx:0,4xx:0,5xx:0,Err:0,T-Err:129,D:140ms,D-2xx:140ms,Ti:7492037B/s,To:2298B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 21 seconds and CAPS average 21:
+H/F   Req:397,1xx:0,2xx:397,3xx:0,4xx:0,5xx:0,Err:0,T-Err:1,D:87ms,D-2xx:87ms,Ti:7921707B/s,To:2344B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+// 40 nodes - 5 tests 
+
+Test total duration was 20 seconds and CAPS average 19:
+H/F   Req:306,1xx:0,2xx:306,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:81ms,D-2xx:81ms,Ti:6418365B/s,To:1897B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 29 seconds and CAPS average 18:
+H/F   Req:554,1xx:0,2xx:554,3xx:0,4xx:0,5xx:0,Err:0,T-Err:81,D:112ms,D-2xx:112ms,Ti:7896608B/s,To:2390B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 24 seconds and CAPS average 20:
+H/F   Req:412,1xx:0,2xx:412,3xx:0,4xx:0,5xx:0,Err:0,T-Err:55,D:124ms,D-2xx:124ms,Ti:7027211B/s,To:2154B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 27 seconds and CAPS average 21:
+H/F   Req:520,1xx:0,2xx:520,3xx:0,4xx:0,5xx:0,Err:0,T-Err:94,D:109ms,D-2xx:109ms,Ti:7951228B/s,To:2388B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+Test total duration was 32 seconds and CAPS average 19:
+H/F   Req:597,1xx:0,2xx:597,3xx:0,4xx:0,5xx:0,Err:0,T-Err:135,D:107ms,D-2xx:107ms,Ti:7646968B/s,To:2317B/s
+H/F/S Req:0,1xx:0,2xx:0,3xx:0,4xx:0,5xx:0,Err:0,T-Err:0,D:0ms,D-2xx:0ms,Ti:0B/s,To:0B/s
+
+
+
+
+
